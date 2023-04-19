@@ -1,0 +1,60 @@
+
+body{
+
+font-family: 'Noto Serif', serif;   
+    background-color:#D79510 ;
+}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@1,700&display=swap');
+
+.phrase{
+    display: grid;  
+    grid-template-columns: 85%  85%;
+    font-size: 30px;
+    font-family: 'Noto Serif', serif;
+}
+.left{
+    grid-column: 1/2;
+}
+.right{
+    grid-column: 2/3;
+}
+#hr{
+    border: 2px solid black;
+}
+.img{
+    display: block;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Noto+Serif:ital,wght@1,700&display=swap');
+.pro{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Abril Fatface',cursive;
+    font-family: 'Noto Serif', serif;
+    
+}
+.bic{
+    text-align: center;
+    font-size: 35px;
+    
+    
+}
+#h3{
+    vertical-align: auto;
+    text-align: auto;
+}
+.prob{
+    display: grid;  
+    grid-template-columns: 85%  85%;
+    font-size: 20px;
+}
+.left{
+    grid-column: 1/2;
+}
+.right{
+    grid-column: 2/3;
+}
+
+
